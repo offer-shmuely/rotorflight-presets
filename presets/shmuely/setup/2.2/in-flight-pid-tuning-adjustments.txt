@@ -7,16 +7,12 @@
 #$ FORCE_OPTIONS_REVIEW: true
 
 #$ PARSER: MARKED
-#$ DESCRIPTION: etocii's Filter Setup
+#$ DESCRIPTION: adjustments for in-flight pid tuning
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION: 
 #$ DESCRIPTION: Description:
 #$ DESCRIPTION: -----------
-#$ DESCRIPTION: etocii's filters are his recommended filters that can be used with his presets.
-
-#$ INCLUDE: helpers/2.2/filter-defaults.include
-feature -DYN_NOTCH
-feature RPM_FILTER
+#$ DESCRIPTION: adjustments for in-flight pid tuning...
 
 # adjfunc
 #adjfunc 0 2 255 1500 1500 1 960 2035 1500 1500 0 1 6
