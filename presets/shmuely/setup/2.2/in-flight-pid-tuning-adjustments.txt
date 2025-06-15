@@ -1,0 +1,38 @@
+#$ TITLE: adjustments for in-flight pid tuning
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: SETUP
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: adjustments
+#$ AUTHOR: shmuely
+#$ FORCE_OPTIONS_REVIEW: true
+
+#$ PARSER: MARKED
+#$ DESCRIPTION: etocii's Filter Setup
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION: 
+#$ DESCRIPTION: Description:
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION: etocii's filters are his recommended filters that can be used with his presets.
+
+#$ INCLUDE: helpers/2.2/filter-defaults.include
+feature -DYN_NOTCH
+feature RPM_FILTER
+
+# adjfunc
+#adjfunc 0 2 255 1500 1500 1 960 2035 1500 1500 0 1 6
+#adjfunc 1 1 255 1500 1500 7 1000 2000 1500 1500 0 1 3
+#adjfunc 2 0 0 1500 1500 0 1500 1500 1500 1500 0 0 100
+
+adjfunc 3 18 5 1100 1300 6 1420 1460 1540 1580 10 0 300
+adjfunc 4 19 5 1300 1500 6 1420 1460 1540 1580 10 0 300
+adjfunc 5 20 5 1500 1700 6 1420 1460 1540 1580 10 0 300
+adjfunc 6 21 5 1700 1900 6 1420 1460 1540 1580 10 0 300
+adjfunc 7 14 5 1100 1300 6 1380 1420 1580 1620 9 0 300
+adjfunc 8 15 5 1300 1500 6 1380 1420 1580 1620 10 0 300
+adjfunc 9 16 5 1500 1700 6 1380 1420 1580 1620 10 0 300
+adjfunc 10 17 5 1700 1900 6 1380 1420 1580 1620 10 0 300
+adjfunc 11 22 5 1100 1300 6 1320 1380 1620 1680 10 0 300
+adjfunc 12 23 5 1300 1500 6 1320 1380 1620 1680 10 0 300
+adjfunc 13 24 5 1500 1700 6 1320 1380 1620 1680 10 0 300
+adjfunc 14 25 5 1700 1900 6 1320 1380 1620 1680 10 0 300
+
