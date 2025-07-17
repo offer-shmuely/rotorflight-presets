@@ -131,6 +131,7 @@
   },
   "uniqueValues": {
     "firmware_version": [
+      "2.2",
       "4.4",
       "4.5"
     ],
@@ -141,7 +142,7 @@
     "author": [
       "etocii",
       "FDRC",
-      "shmuely",
+      "Shmuely",
       "The Rotorflight Team"
     ],
     "keywords": [
@@ -274,17 +275,17 @@
     },
     {
       "fullPath": "presets/shmuely/setup/2.2/in-flight-pid-tuning-adjustments.txt",
-      "hash": "ff8525e2ebf3e0751077465988fc4e5ac138804072303f65e722ecf7ab9d76b7",
+      "hash": "7c703e21cc6d889e543fc656347b3b93077f17db2f33baebef22c4c26b3577db",
       "title": "adjustments for in-flight pid tuning",
       "firmware_version": [
-        "4.5"
+        "2.2"
       ],
       "category": "SETUP",
       "status": "COMMUNITY",
       "keywords": [
         "adjustments"
       ],
-      "author": "shmuely",
+      "author": "Shmuely",
       "force_options_review": true,
       "priority": 0
     }

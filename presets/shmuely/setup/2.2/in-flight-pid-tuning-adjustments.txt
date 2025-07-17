@@ -1,18 +1,19 @@
 #$ TITLE: adjustments for in-flight pid tuning
-#$ FIRMWARE_VERSION: 4.5
+#$ FIRMWARE_VERSION: 2.2
 #$ CATEGORY: SETUP
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: adjustments
-#$ AUTHOR: shmuely
+#$ AUTHOR: Shmuely
 #$ FORCE_OPTIONS_REVIEW: true
 
 #$ PARSER: MARKED
-#$ DESCRIPTION: adjustments for in-flight pid tuning
-#$ DESCRIPTION: -----------
+#$ DESCRIPTION: adjustments for in-flight PID tuning
+#$ DESCRIPTION: -----------------------------------
+#$ DESCRIPTION: This preset provides a set of adjustments for in-flight PID tuning.<br>
+#$ DESCRIPTION: It allows to fine-tune Heli's PID settings during flight.
 #$ DESCRIPTION: 
-#$ DESCRIPTION: Description:
-#$ DESCRIPTION: -----------
-#$ DESCRIPTION: adjustments for in-flight pid tuning...
+#$ DESCRIPTION: 
+#$ DESCRIPTION: -----------------------------------
 
 # adjfunc
 #adjfunc 0 2 255 1500 1500 1 960 2035 1500 1500 0 1 6
