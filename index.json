@@ -150,8 +150,8 @@
   "presets": [
     {
       "fullPath": "presets/ArchieRC/2.2/smooth-rate-1-2-3.txt",
-      "hash": "c841bb5d6fa9f49fa8de45fa555dac5252115cde95c0b0bb66c39c9734f50253",
-      "title": "ArchieRC Smooth (rate profile 1/2/3)",
+      "hash": "4150ba5b9e628b9ad86739bea50640cab13f00e1ce172225f5d1e20cf97c7f15",
+      "title": "Smooth (rate profile 1/2/3) (by ArchieRC)",
       "firmware_version": [
         "2.2",
         "4.5"
@@ -162,13 +162,13 @@
         "Inputs"
       ],
       "author": "ArchieRC",
-      "force_options_review": true,
+      "force_options_review": false,
       "priority": 0
     },
     {
       "fullPath": "presets/ArchieRC/2.2/smooth-rate4.txt",
-      "hash": "b632e7744f2fb103a871a581e97e1ab20f6dc12bf2462b76b58c03a65aabc3cb",
-      "title": "ArchieRC Smooth (rate profile 4)",
+      "hash": "a8e58e29549a2bbf17449e29feb799d2d55b8594d26f3360242a670bd9f0e030",
+      "title": "Smooth (rate profile 4) (by ArchieRC)",
       "firmware_version": [
         "2.2",
         "4.5"
@@ -179,13 +179,13 @@
         "Inputs"
       ],
       "author": "ArchieRC",
-      "force_options_review": true,
+      "force_options_review": false,
       "priority": 0
     },
     {
       "fullPath": "presets/ArchieRC/2.2/smooth-rate5.txt",
-      "hash": "79ab07d8537b785c6d1fe9267a016e5921f895d38b4675fbb74a6da9fa93d44e",
-      "title": "ArchieRC Smooth (rate profile 5)",
+      "hash": "54074c5fc70edc948de1b69a0eea1a7f946eb2c13e20a6d85734afa92d706437",
+      "title": "Smooth (rate profile 5) (by ArchieRC)",
       "firmware_version": [
         "2.2",
         "4.5"
@@ -196,13 +196,13 @@
         "Inputs"
       ],
       "author": "ArchieRC",
-      "force_options_review": true,
+      "force_options_review": false,
       "priority": 0
     },
     {
       "fullPath": "presets/ArchieRC/2.2/smooth-rate6.txt",
-      "hash": "63900b9d5ef5571e0a4154ad04fc7431195fbb52c864e7cfca0d5a4030c367e9",
-      "title": "ArchieRC Smooth  (rate profile 6)",
+      "hash": "0cc6a08d80628bf3e4c896bb5d7cf853bb1398880e6349e5f66e3e4efb1229f5",
+      "title": "Smooth (rate profile 6) (by ArchieRC)",
       "firmware_version": [
         "2.2",
         "4.5"
@@ -213,7 +213,7 @@
         "Inputs"
       ],
       "author": "ArchieRC",
-      "force_options_review": true,
+      "force_options_review": false,
       "priority": 0
     },
     {

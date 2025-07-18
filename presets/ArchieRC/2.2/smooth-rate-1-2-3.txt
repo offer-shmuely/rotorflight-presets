@@ -1,11 +1,11 @@
-#$ TITLE: ArchieRC Smooth (rate profile 1/2/3)
+#$ TITLE: Smooth (rate profile 1/2/3) (by ArchieRC)
 #$ FIRMWARE_VERSION: 2.2
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: SETUP
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: Inputs
 #$ AUTHOR: ArchieRC
-#$ FORCE_OPTIONS_REVIEW: true
+#$ FORCE_OPTIONS_REVIEW: false
 
 #$ PARSER: MARKED
 #$ DESCRIPTION: ArchieRC RC Input Smoothing
