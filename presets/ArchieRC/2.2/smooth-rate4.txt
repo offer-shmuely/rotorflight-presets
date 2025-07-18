@@ -1,4 +1,4 @@
-#$ TITLE: ArchieRC Smooth
+#$ TITLE: ArchieRC Smooth (rate profile 4)
 #$ FIRMWARE_VERSION: 2.2
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: SETUP
@@ -17,20 +17,9 @@
 
 set rc_smoothness = 80
 
-# rateprofile 0
-rateprofile 0
+# rateprofile 3
+rateprofile 3
 set roll_response = 10
 set pitch_response = 10
 set yaw_response = 4
 
-# rateprofile 1
-rateprofile 1
-set roll_response = 10
-set pitch_response = 10
-set yaw_response = 4
-
-# rateprofile 2
-rateprofile 2
-set roll_response = 10
-set pitch_response = 10
-set yaw_response = 4
