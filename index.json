@@ -132,145 +132,37 @@
   "uniqueValues": {
     "firmware_version": [
       "2.2",
-      "4.4",
       "4.5"
     ],
     "category": [
-      "REMAPPING",
       "SETUP"
     ],
     "author": [
-      "etocii",
-      "FDRC",
-      "Shmuely",
-      "The Rotorflight Team"
+      "ArchieRC",
+      "Shmuely"
     ],
     "keywords": [
       "adjustments",
-      "bec",
-      "ext",
-      "f.port",
-      "filters",
-      "fport",
-      "motorized tail",
-      "rpm-s rpm-e rpm",
-      "s.bus",
-      "sbus",
-      "servo",
-      "voltage"
+      "Inputs"
     ],
-    "board_name": [
-      "FLYDRAGON_V2",
-      "FLYDRAGON_V2_2",
-      "FLYDRAGONF722_V2",
-      "FLYDRAGONF722_V2_2",
-      "NEXUS_F7"
-    ]
+    "board_name": []
   },
   "presets": [
     {
-      "fullPath": "presets/etocii/setup/2.2/etocii-filters.txt",
-      "hash": "84acafde3f50dea78352a4c0403f566a60ae7d6efba7f9ce4380c1d6f473a096",
-      "title": "etocii's Filters",
+      "fullPath": "presets/ArchieRC/2.2/smooth.txt",
+      "hash": "e8baf25f749eb6c26531f2d44ee1d0cc819399436cc815c11c4cb70ecba85975",
+      "title": "ArchieRC Smooth",
       "firmware_version": [
+        "2.2",
         "4.5"
       ],
       "category": "SETUP",
       "status": "COMMUNITY",
       "keywords": [
-        "filters"
+        "Inputs"
       ],
-      "author": "etocii",
+      "author": "ArchieRC",
       "force_options_review": true,
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/FDRC/f722v2.x/f722v2/remapping/ext-volt-to-bec.txt",
-      "hash": "ea49d5abfc0cfcac199fb24907265eea02e2ccb758d83f47571f1c624f12f7ef",
-      "title": "FLYDRAGON V2 Remap EXT Voltage -> BEC",
-      "firmware_version": [
-        "4.4",
-        "4.5"
-      ],
-      "board_name": [
-        "FLYDRAGONF722_V2",
-        "FLYDRAGON_V2"
-      ],
-      "category": "REMAPPING",
-      "status": "COMMUNITY",
-      "keywords": [
-        "ext",
-        "voltage",
-        "bec"
-      ],
-      "author": "FDRC",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/FDRC/f722v2.x/f722v2.2/remapping/rpm-port.txt",
-      "hash": "4f2dfc7c3cd3fbe69d7a740e7802bdff6557e6a5fce94a50fb730454561cf3a0",
-      "title": "FLYDRAGON RPM Port Selection",
-      "firmware_version": [
-        "4.4",
-        "4.5"
-      ],
-      "board_name": [
-        "FLYDRAGONF722_V2",
-        "FLYDRAGONF722_V2_2",
-        "FLYDRAGON_V2",
-        "FLYDRAGON_V2_2"
-      ],
-      "category": "REMAPPING",
-      "status": "COMMUNITY",
-      "keywords": [
-        "rpm-s rpm-e rpm"
-      ],
-      "author": "FDRC",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/FDRC/f722v2.x/f722v2.2/remapping/servo5.txt",
-      "hash": "6fdf8cd8bbfccb2c3f50a3ba886e8d69a4162596ef0d7a1b0f11541237d23703",
-      "title": "FLYDRAGON Servo 5 Configuration",
-      "firmware_version": [
-        "4.4",
-        "4.5"
-      ],
-      "board_name": [
-        "FLYDRAGONF722_V2",
-        "FLYDRAGONF722_V2_2",
-        "FLYDRAGON_V2",
-        "FLYDRAGON_V2_2"
-      ],
-      "category": "REMAPPING",
-      "status": "COMMUNITY",
-      "keywords": [
-        "sbus",
-        "s.bus",
-        "fport",
-        "f.port",
-        "servo"
-      ],
-      "author": "FDRC",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/RDMS/nexus/motorized-tail.txt",
-      "hash": "d80ca0def7873055744f709fe90e276fd44d74223bad5667b2699aeb10020988",
-      "title": "RadioMaster Nexus Motorized Tail",
-      "firmware_version": [
-        "4.4",
-        "4.5"
-      ],
-      "board_name": [
-        "NEXUS_F7"
-      ],
-      "category": "REMAPPING",
-      "status": "COMMUNITY",
-      "keywords": [
-        "motorized tail"
-      ],
-      "author": "The Rotorflight Team",
       "priority": 0
     },
     {
