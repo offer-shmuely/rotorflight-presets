@@ -131,7 +131,9 @@
   },
   "uniqueValues": {
     "firmware_version": [
+      "2.1",
       "2.2",
+      "4.4",
       "4.5"
     ],
     "category": [
@@ -143,11 +145,139 @@
     ],
     "keywords": [
       "adjustments",
-      "Inputs"
+      "filters",
+      "iLGoblin",
+      "Inputs",
+      "preset",
+      "profile",
+      "rates",
+      "SAB",
+      "SXC",
+      "SystemX",
+      "Tune"
     ],
     "board_name": []
   },
   "presets": [
+    {
+      "fullPath": "presets/ArchieRC/2.2/preset-700-sab-goblin-adjustments-filters.txt",
+      "hash": "f64f6fb90fae322898260760a9a604fa2a2188ec99c782025337d7f4c37fb39b",
+      "title": "SAB iLGoblin PRO Tune - filters (by SystemX)",
+      "firmware_version": [
+        "2.1",
+        "4.4"
+      ],
+      "category": "SETUP",
+      "status": "COMMUNITY",
+      "keywords": [
+        "preset",
+        "SXC",
+        "SystemX",
+        "SAB",
+        "iLGoblin",
+        "Tune",
+        "filters"
+      ],
+      "author": "ArchieRC",
+      "force_options_review": false,
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/ArchieRC/2.2/preset-700-sab-goblin-adjustments.txt",
+      "hash": "e08bdea1573fbe2dae30b9aa49dfc9c84c72dc335f1a7ec884d8195389d4d576",
+      "title": "SAB iLGoblin PRO Tune Adjustments (by SystemX)",
+      "firmware_version": [
+        "2.1",
+        "4.4"
+      ],
+      "category": "SETUP",
+      "status": "COMMUNITY",
+      "keywords": [
+        "preset",
+        "SXC",
+        "SystemX",
+        "SAB",
+        "iLGoblin",
+        "Tune",
+        "profile",
+        "rates"
+      ],
+      "author": "ArchieRC",
+      "force_options_review": false,
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/ArchieRC/2.2/preset-700-sab-goblin-modes.txt",
+      "hash": "8b8cd877c2d8f5d19d2a2c18961ed5a05ae5ed07cd39f77909ed3e8d246a8249",
+      "title": "SAB iLGoblin PRO Tune Modes (by SystemX)",
+      "firmware_version": [
+        "2.1",
+        "4.4"
+      ],
+      "category": "SETUP",
+      "status": "COMMUNITY",
+      "keywords": [
+        "preset",
+        "SXC",
+        "SystemX",
+        "SAB",
+        "iLGoblin",
+        "Tune",
+        "profile",
+        "rates"
+      ],
+      "author": "ArchieRC",
+      "force_options_review": false,
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/ArchieRC/2.2/preset-700-sab-goblin-profiles-rates.txt",
+      "hash": "44b5503835e06bf4c4e97066ae1b63e02e3fbf0d740a5d54255b895fac02e7cc",
+      "title": "SAB iLGoblin PRO Tune - profile & rates 1-4 (by SystemX)",
+      "firmware_version": [
+        "2.1",
+        "4.4"
+      ],
+      "category": "SETUP",
+      "status": "COMMUNITY",
+      "keywords": [
+        "preset",
+        "SXC",
+        "SystemX",
+        "SAB",
+        "iLGoblin",
+        "Tune",
+        "profile",
+        "rates"
+      ],
+      "author": "ArchieRC",
+      "force_options_review": false,
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/ArchieRC/2.2/preset-700-sab-goblin.txt",
+      "hash": "f51b134b0b12239e01bdb19a27d3311b5f8d4690ec06a9d4ce5575897e092964",
+      "title": "SAB iLGoblin PRO Full(!!) Tune (by SystemX)",
+      "firmware_version": [
+        "2.1",
+        "4.4"
+      ],
+      "category": "SETUP",
+      "status": "COMMUNITY",
+      "keywords": [
+        "preset",
+        "SXC",
+        "SystemX",
+        "SAB",
+        "iLGoblin",
+        "Tune",
+        "profile",
+        "rates"
+      ],
+      "author": "ArchieRC",
+      "force_options_review": false,
+      "priority": 0
+    },
     {
       "fullPath": "presets/ArchieRC/2.2/smooth-rate-1-2-3.txt",
       "hash": "4150ba5b9e628b9ad86739bea50640cab13f00e1ce172225f5d1e20cf97c7f15",
