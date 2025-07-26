@@ -17,39 +17,10 @@
 #$ DESCRIPTION: <br><br>
 #$ DESCRIPTION: Components the SXC Team Recommends for the IL Goblin Pro:
 #$ DESCRIPTION: <br>
-#$ DESCRIPTION: ### Motor:
-#$ DESCRIPTION:   - XNova Lightning 4530 525KV
-#$ DESCRIPTION:   - XNova XTareq 700 Class
-#$ DESCRIPTION: 
-#$ DESCRIPTION: ### ESC:
-#$ DESCRIPTION: * Hobbywing Platinum 260amp
-#$ DESCRIPTION: * XDFly Pro 300amp
-#$ DESCRIPTION: 
-#$ DESCRIPTION: ### Servos:
-#$ DESCRIPTION: * Theta Kenny Ko 12V
-#$ DESCRIPTION: * Theta Kenny Ko
-#$ DESCRIPTION: * Theta C1 & T1
-#$ DESCRIPTION: * Torq HLX Combo
-#$ DESCRIPTION: * Torq SHV Combo
-#$ DESCRIPTION: * Torq BLS2208/BLS0704T
-#$ DESCRIPTION: 
-#$ DESCRIPTION: ### FBL:
-#$ DESCRIPTION: * Radiomaster Nexus and RP3H
-#$ DESCRIPTION: 
-#$ DESCRIPTION: ### Battery:
-#$ DESCRIPTION:   * Pulse 12S 5300mah Ptech
-#$ DESCRIPTION:   * Equivalent 12S 5000-5500mah
-#$ DESCRIPTION: 
-#$ DESCRIPTION: ### Main Blades:
-#$ DESCRIPTION:    * Included SAB 722 Blades
-#$ DESCRIPTION:    * Rotortech Ultimate 715
-#$ DESCRIPTION:    * Rotortech Ultimate 700
-#$ DESCRIPTION: 
 #$ DESCRIPTION: ## Technical Details of the Tune:
 #$ DESCRIPTION: ???
 #$ DESCRIPTION: ** Best when used in conjunction with our recommended SXC Radio presets **
 #$ DESCRIPTION: 
-
 
 
 # master
@@ -58,47 +29,8 @@ set gyro_lpf2_static_hz = 0
 set dyn_notch_count = 2
 set dyn_notch_q = 50
 set dyn_notch_min_hz = 50
-set acc_calibration = 4,37,0,1
-set serialrx_provider = CRSF
-set blackbox_rate_denom = 2
-set blackbox_log_acc = ON
-set blackbox_log_esc = ON
-set min_throttle = 1010
-set motor_pwm_rate = 150
-set motor_poles = 10,8,8,8
-set main_rotor_gear_ratio = 99,952
-set tail_rotor_gear_ratio = 117,578
-set align_board_yaw = 180
-set bat_capacity = 3800
-set current_meter = ESC
-set battery_meter = ESC
-set battery_cell_count = 12
-set tail_center_trim = -42
-set swash_pitch_limit = 1667
-set swash_geo_correction = -5
-set gov_mode = MODE1
-set gov_startup_time = 600
-set gov_tracking_time = 100
-set gov_handover_throttle = 30
-set gov_ff_filter = 0
-set rc_deflection = 511
-set rc_arm_throttle = 1000
-set rc_min_throttle = 1010
-set rc_max_throttle = 2012
-set rc_smoothness = 80
-set report_cell_voltage = ON
-set crsf_telemetry_mode = CUSTOM
-set crsf_telemetry_link_rate = 500
-set crsf_telemetry_link_ratio = 32
-set crsf_telemetry_sensors = 3,8,4,5,60,50,51,99,6,22,43,15,95,96,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-set telemetry_enable_model_id = ON
-set debug_mode = GOVERNOR
-set esc_sensor_protocol = HOBBYWINGV5
-set esc_sensor_halfduplex = ON
-set esc_sensor_pinswap = ON
 set gyro_rpm_filter_bank_rpm_source = 11,12,13,14,21,22,0,0,0,0,0,0,0,0,0,0
 set gyro_rpm_filter_bank_rpm_ratio = 10000,10000,10000,10000,10000,10000,0,0,0,0,0,0,0,0,0,0
 set gyro_rpm_filter_bank_rpm_limit = 1000,1000,1000,1000,2000,2000,0,0,0,0,0,0,0,0,0,0
 set gyro_rpm_filter_bank_notch_q = 80,40,100,70,80,50,0,0,0,0,0,0,0,0,0,0
-set name = SAB ILGoblin Pro
 

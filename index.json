@@ -161,7 +161,7 @@
   "presets": [
     {
       "fullPath": "presets/ArchieRC/2.2/preset-700-sab-goblin-adjustments-filters.txt",
-      "hash": "f64f6fb90fae322898260760a9a604fa2a2188ec99c782025337d7f4c37fb39b",
+      "hash": "2ad1a7ddebbb191de6a51dacbfbd81ac912707fc19bfab7fb4d386689f92b9d6",
       "title": "SAB iLGoblin PRO Tune - filters (by SystemX)",
       "firmware_version": [
         "2.1",
