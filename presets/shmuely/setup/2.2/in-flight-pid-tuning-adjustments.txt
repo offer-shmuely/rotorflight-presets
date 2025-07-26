@@ -4,7 +4,7 @@
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: adjustments
 #$ AUTHOR: Shmuely
-#$ FORCE_OPTIONS_REVIEW: true
+#$ FORCE_OPTIONS_REVIEW: false
 
 #$ PARSER: MARKED
 #$ DESCRIPTION: adjustments for in-flight PID tuning

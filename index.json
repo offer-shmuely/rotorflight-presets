@@ -343,7 +343,7 @@
     },
     {
       "fullPath": "presets/shmuely/setup/2.2/in-flight-pid-tuning-adjustments.txt",
-      "hash": "7c703e21cc6d889e543fc656347b3b93077f17db2f33baebef22c4c26b3577db",
+      "hash": "cf8233b5ab0c9510b0575b82a7c45bf73b0d175acfc89b1ed88c1a4926d80881",
       "title": "adjustments for in-flight pid tuning",
       "firmware_version": [
         "2.2"
@@ -354,7 +354,7 @@
         "adjustments"
       ],
       "author": "Shmuely",
-      "force_options_review": true,
+      "force_options_review": false,
       "priority": 0
     }
   ]
