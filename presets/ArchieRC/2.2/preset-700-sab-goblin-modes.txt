@@ -3,8 +3,8 @@
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: SETUP
 #$ STATUS: COMMUNITY
-#$ KEYWORDS: preset, SXC, SystemX, SAB, iLGoblin, Tune, profile, rates
-#$ AUTHOR: ArchieRC
+#$ KEYWORDS: preset, SystemX, SAB, iLGoblin, Tune, profile, rates
+#$ AUTHOR: SystemX
 #$ FORCE_OPTIONS_REVIEW: false
 
 #$ PARSER: MARKED
