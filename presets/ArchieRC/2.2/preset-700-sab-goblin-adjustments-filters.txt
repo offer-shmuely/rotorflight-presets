@@ -8,18 +8,18 @@
 #$ FORCE_OPTIONS_REVIEW: false
 
 #$ PARSER: MARKED
-#$ DESCRIPTION: # section of filters from SXC SAB iLGoblin PRO Tune for RF2.1.1
+#$ DESCRIPTION: # section of filters from SystemX SAB iLGoblin PRO Tune for RF2.1.1
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION: 
 #$ DESCRIPTION: Description:
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION: This tune features fast rotation rates and high head speeds, making it unsuitable for beginner pilots. As with any preset and tune, please use it at your own risk. Ensure you complete the necessary setup steps and conduct all preflight checks.
 #$ DESCRIPTION: <br><br>
-#$ DESCRIPTION: Components the SXC Team Recommends for the IL Goblin Pro:
+#$ DESCRIPTION: Components the SystemX Team Recommends for the IL Goblin Pro:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION: ## Technical Details of the Tune:
 #$ DESCRIPTION: ???
-#$ DESCRIPTION: ** Best when used in conjunction with our recommended SXC Radio presets **
+#$ DESCRIPTION: ** Best when used in conjunction with our recommended SystemX Radio presets **
 #$ DESCRIPTION: 
 
 

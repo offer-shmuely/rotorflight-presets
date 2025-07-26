@@ -8,14 +8,14 @@
 #$ FORCE_OPTIONS_REVIEW: false
 
 #$ PARSER: MARKED
-#$ DESCRIPTION: # Section of Profiles & Rates from the SXC SAB iLGoblin PRO Tune for RF2.1.1
+#$ DESCRIPTION: # Section of Profiles & Rates from the SystemX SAB iLGoblin PRO Tune for RF2.1.1
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION: 
 #$ DESCRIPTION: Description:
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION: This tune features fast rotation rates and high head speeds, making it unsuitable for beginner pilots. As with any preset and tune, please use it at your own risk. Ensure you complete the necessary setup steps and conduct all preflight checks.
 #$ DESCRIPTION: <br><br>
-#$ DESCRIPTION: Components the SXC Team Recommends for the IL Goblin Pro:
+#$ DESCRIPTION: Components the SystemX Team Recommends for the IL Goblin Pro:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION: ### Motor:
 #$ DESCRIPTION:   - XNova Lightning 4530 525KV
@@ -75,7 +75,7 @@
 #$ DESCRIPTION: * Yaw Rotation Rate: 580°/s (50 Expo)
 #$ DESCRIPTION: * Collective Pitch: 13°
 #$ DESCRIPTION: <br><br>
-#$ DESCRIPTION: ** Best when used in conjunction with our recommended SXC Radio presets **
+#$ DESCRIPTION: ** Best when used in conjunction with our recommended SystemX Radio presets **
 #$ DESCRIPTION: 
 
 

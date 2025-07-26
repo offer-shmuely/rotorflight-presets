@@ -161,7 +161,7 @@
   "presets": [
     {
       "fullPath": "presets/ArchieRC/2.2/preset-700-sab-goblin-adjustments-filters.txt",
-      "hash": "7247f7854e37238496b66bd7217e17183cb7a65e256868bae04943b48e0cc578",
+      "hash": "cfa1dfce973913b7fe58512805d9c2f5287d5bfa188be8034afcf51121936a9c",
       "title": "SAB iLGoblin PRO Tune - filters (by SystemX)",
       "firmware_version": [
         "2.1",
@@ -183,7 +183,7 @@
     },
     {
       "fullPath": "presets/ArchieRC/2.2/preset-700-sab-goblin-adjustments.txt",
-      "hash": "80a333cfbc48779f65a894ae61062762d80f5de0dd6de3af264ba4e1e46384ea",
+      "hash": "e789ecae1bfdcc207030135627356a1cb73cdc983cea343737050c26a0e51596",
       "title": "SAB iLGoblin PRO Tune Adjustments (by SystemX)",
       "firmware_version": [
         "2.1",
@@ -206,7 +206,7 @@
     },
     {
       "fullPath": "presets/ArchieRC/2.2/preset-700-sab-goblin-modes.txt",
-      "hash": "439e643876f8bab4d2cbbc6a8f17b3dce4323380f7f19c5429488be55c9eb537",
+      "hash": "d7fa7bd054e32992e069148a6b2f02ea0e696e3920e22157827d2d524499acd8",
       "title": "SAB iLGoblin PRO Tune Modes (by SystemX)",
       "firmware_version": [
         "2.1",
@@ -229,7 +229,7 @@
     },
     {
       "fullPath": "presets/ArchieRC/2.2/preset-700-sab-goblin-profiles-rates.txt",
-      "hash": "d90394f3ba8b7f12344f08660d597be47e11f7a4942efb62ad9b86a4257a446a",
+      "hash": "a53693f10e91f8076912de096f5ba669ac7c57aabfd990374f276ca6b182eb18",
       "title": "SAB iLGoblin PRO Tune - profile & rates 1-4 (by SystemX)",
       "firmware_version": [
         "2.1",
@@ -252,7 +252,7 @@
     },
     {
       "fullPath": "presets/ArchieRC/2.2/preset-700-sab-goblin.txt",
-      "hash": "e80d9a5023e8df5ded1f65b719b01d5a38228a4746211f610e1f613ad2e46712",
+      "hash": "8bdd80cf82a5c1335b5d2372e03f8a8d00ea04da0c7fa7911ad6adc23e8e4384",
       "title": "SAB iLGoblin PRO Full(!!) Tune (by SystemX)",
       "firmware_version": [
         "2.1",
