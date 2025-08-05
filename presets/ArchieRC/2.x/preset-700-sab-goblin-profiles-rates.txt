@@ -1,6 +1,6 @@
 #$ TITLE: SAB iLGoblin PRO Tune - profile & rates 1-4 (by SystemX)
-#$ FIRMWARE_VERSION: 2.1
 #$ FIRMWARE_VERSION: 4.4
+#$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: SETUP
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: preset, SystemX, SAB, iLGoblin, Tune, profile, rates

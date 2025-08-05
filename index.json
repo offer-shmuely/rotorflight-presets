@@ -131,8 +131,6 @@
   },
   "uniqueValues": {
     "firmware_version": [
-      "2.1",
-      "2.2",
       "4.4",
       "4.5"
     ],
@@ -160,11 +158,10 @@
   },
   "presets": [
     {
-      "fullPath": "presets/ArchieRC/2.2/preset-700-sab-goblin-adjustments-filters.txt",
-      "hash": "cfa1dfce973913b7fe58512805d9c2f5287d5bfa188be8034afcf51121936a9c",
+      "fullPath": "presets/ArchieRC/2.x/preset-700-sab-goblin-adjustments-filters.txt",
+      "hash": "d958fd42a4428240df95c13fecafe1f9743cfe83a0f385e3ddb1c884886ab60e",
       "title": "SAB iLGoblin PRO Tune - filters (by SystemX)",
       "firmware_version": [
-        "2.1",
         "4.4"
       ],
       "category": "SETUP",
@@ -182,12 +179,12 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/ArchieRC/2.2/preset-700-sab-goblin-adjustments.txt",
-      "hash": "e789ecae1bfdcc207030135627356a1cb73cdc983cea343737050c26a0e51596",
+      "fullPath": "presets/ArchieRC/2.x/preset-700-sab-goblin-adjustments.txt",
+      "hash": "dcebfd8a9cfa98f067f50108f5d3eb699d115a181c492c57537dfb912952aecb",
       "title": "SAB iLGoblin PRO Tune Adjustments (by SystemX)",
       "firmware_version": [
-        "2.1",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "SETUP",
       "status": "COMMUNITY",
@@ -205,12 +202,12 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/ArchieRC/2.2/preset-700-sab-goblin-modes.txt",
-      "hash": "d7fa7bd054e32992e069148a6b2f02ea0e696e3920e22157827d2d524499acd8",
+      "fullPath": "presets/ArchieRC/2.x/preset-700-sab-goblin-modes.txt",
+      "hash": "d146d7d14bf8bb9416b4f74e31a604d074a49efa8032cb61a00b558ac470ea35",
       "title": "SAB iLGoblin PRO Tune Modes (by SystemX)",
       "firmware_version": [
-        "2.1",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "SETUP",
       "status": "COMMUNITY",
@@ -228,12 +225,12 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/ArchieRC/2.2/preset-700-sab-goblin-profiles-rates.txt",
-      "hash": "a53693f10e91f8076912de096f5ba669ac7c57aabfd990374f276ca6b182eb18",
+      "fullPath": "presets/ArchieRC/2.x/preset-700-sab-goblin-profiles-rates.txt",
+      "hash": "fe344c4e20dbc6c854b554967eada15df480d5ae9b1bcd45db48ab06e6f0546e",
       "title": "SAB iLGoblin PRO Tune - profile & rates 1-4 (by SystemX)",
       "firmware_version": [
-        "2.1",
-        "4.4"
+        "4.4",
+        "4.5"
       ],
       "category": "SETUP",
       "status": "COMMUNITY",
@@ -251,11 +248,10 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/ArchieRC/2.2/preset-700-sab-goblin.txt",
-      "hash": "8bdd80cf82a5c1335b5d2372e03f8a8d00ea04da0c7fa7911ad6adc23e8e4384",
+      "fullPath": "presets/ArchieRC/2.x/preset-700-sab-goblin.txt",
+      "hash": "e75b4f652b556e5acc70e0378226aaaa974330e0d41eb00a8c59a16cea685fec",
       "title": "SAB iLGoblin PRO Full(!!) Tune (by SystemX)",
       "firmware_version": [
-        "2.1",
         "4.4"
       ],
       "category": "SETUP",
@@ -274,11 +270,11 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/ArchieRC/2.2/smooth-rate-1-2-3.txt",
-      "hash": "4150ba5b9e628b9ad86739bea50640cab13f00e1ce172225f5d1e20cf97c7f15",
+      "fullPath": "presets/ArchieRC/2.x/smooth-rate-1-2-3.txt",
+      "hash": "b2ab7029a50b659c82dd3342939a41f429efe6e8ac7dd4e31d831cb9ca09d25a",
       "title": "Smooth (rate profile 1/2/3) (by ArchieRC)",
       "firmware_version": [
-        "2.2",
+        "4.4",
         "4.5"
       ],
       "category": "SETUP",
@@ -291,11 +287,11 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/ArchieRC/2.2/smooth-rate4.txt",
-      "hash": "a8e58e29549a2bbf17449e29feb799d2d55b8594d26f3360242a670bd9f0e030",
+      "fullPath": "presets/ArchieRC/2.x/smooth-rate4.txt",
+      "hash": "aaad67b6ea41a9e3f0c18325f682abdf04a00465f22511117c1570bdc81e7128",
       "title": "Smooth (rate profile 4) (by ArchieRC)",
       "firmware_version": [
-        "2.2",
+        "4.4",
         "4.5"
       ],
       "category": "SETUP",
@@ -308,11 +304,11 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/ArchieRC/2.2/smooth-rate5.txt",
-      "hash": "54074c5fc70edc948de1b69a0eea1a7f946eb2c13e20a6d85734afa92d706437",
+      "fullPath": "presets/ArchieRC/2.x/smooth-rate5.txt",
+      "hash": "9a7aaf584a969be349b406e948a9a009e9344fba07094e37a2e7692459268f08",
       "title": "Smooth (rate profile 5) (by ArchieRC)",
       "firmware_version": [
-        "2.2",
+        "4.4",
         "4.5"
       ],
       "category": "SETUP",
@@ -325,11 +321,11 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/ArchieRC/2.2/smooth-rate6.txt",
-      "hash": "0cc6a08d80628bf3e4c896bb5d7cf853bb1398880e6349e5f66e3e4efb1229f5",
+      "fullPath": "presets/ArchieRC/2.x/smooth-rate6.txt",
+      "hash": "4859112bec12bd3b77a857ae60de829c76562e6f9d32d0e02448c98cb24aa097",
       "title": "Smooth (rate profile 6) (by ArchieRC)",
       "firmware_version": [
-        "2.2",
+        "4.4",
         "4.5"
       ],
       "category": "SETUP",
@@ -343,10 +339,11 @@
     },
     {
       "fullPath": "presets/shmuely/setup/2.2/in-flight-pid-tuning-adjustments.txt",
-      "hash": "cf8233b5ab0c9510b0575b82a7c45bf73b0d175acfc89b1ed88c1a4926d80881",
+      "hash": "d14ec7f6003eef8fd811a7c9fd5ba89e5c393614782db61ce8697490a1312cdf",
       "title": "adjustments for in-flight pid tuning",
       "firmware_version": [
-        "2.2"
+        "4.4",
+        "4.5"
       ],
       "category": "SETUP",
       "status": "COMMUNITY",

@@ -1,5 +1,6 @@
 #$ TITLE: adjustments for in-flight pid tuning
-#$ FIRMWARE_VERSION: 2.2
+#$ FIRMWARE_VERSION: 4.4
+#$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: SETUP
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: adjustments
